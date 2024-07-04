@@ -15,11 +15,8 @@
 <img src="https://uploaddeimagens.com.br/images/004/806/660/full/thumbnail.png?1719721463"/>
 
 <h4>Imagens das Novas Funcionalidades:</h4>
-<img src="https://uploaddeimagens.com.br/images/004/807/728/full/insta.png?1720019656"/>
-<img src="https://uploaddeimagens.com.br/images/004/807/729/full/thumbnail02.png?1720019766"/>
-<img src="https://uploaddeimagens.com.br/images/004/807/730/full/insta.png?1720019840"/>
-<img src="https://uploaddeimagens.com.br/images/004/807/732/full/insta.png?1720019918"/>
-<img src="https://uploaddeimagens.com.br/images/004/807/734/full/thumbnail02.png?1720019981"/>
+<img src="https://uploaddeimagens.com.br/images/004/807/954/full/Captura_de_tela_2024-07-02_165025.png?1720060213"/>
+<img src="https://uploaddeimagens.com.br/images/004/807/957/full/thumbnail02.png?1720060369"/>
 
 <h4>O que foi atulizado na versão 3.0?</h4>
 <ul>
