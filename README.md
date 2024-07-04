@@ -21,6 +21,13 @@
 <img src="https://uploaddeimagens.com.br/images/004/807/732/full/insta.png?1720019918"/>
 <img src="https://uploaddeimagens.com.br/images/004/807/734/full/thumbnail02.png?1720019981"/>
 
+<h4>O que foi atulizado na versão 3.0?</h4>
+<ul>
+  <li>Novos Tratamentos de Dados.</li>
+  <li>Sitema para Adcionar URL ou Arquivo JPG, caso adicione os dois aparece "Impossível adiconar dois ".</li>
+  <li>Hospedagem do Projeto em NodeJS feita no <a href="https://portal-noticias-nodejs-3-0.onrender.com/">Vercel</a></li>
+</ul>
+
 <h4>O que foi atulizado na versão 2.0?</h4>
 <ul>
   <li>Sistema de Login para Admin, seguindo o cadastrado na Array usuários (Podendo ser dinâmico na próxima versão).</li>
